@@ -1,2 +1,2 @@
-# Console-Pascal-triangle
+# Console Pascal triangle
 C++
